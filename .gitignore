@@ -1,0 +1,20 @@
+# ===== Arquivos do Windows =====
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ===== Arquivos do Mac =====
+.DS_Store
+
+# ===== Configurações do VS Code =====
+.vscode/
+
+# ===== Imagens originais (artes do WhatsApp) =====
+# O site usa apenas o que está na pasta img/
+WhatsApp Image*.jpeg
+WhatsApp Image*.jpg
+
+# ===== Arquivos temporários =====
+*.tmp
+*.bak
+*~
