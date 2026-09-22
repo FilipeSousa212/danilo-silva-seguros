@@ -5,7 +5,7 @@ Seguro auto e moto com assinatura mensal, sem análise de perfil e assistência 
 
 > *Seguro mais acessível para todos.*
 
-🔗 **Acesse o site:** https://SEU-USUARIO.github.io/danilo-silva-seguros/
+ **Acesse o site:** https://danilosilvaseguros.netlify.app
 
 ---
 
